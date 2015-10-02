@@ -1,6 +1,7 @@
 # yandex-translate-stream
 Yandex translate module inside a map-stream.
 
+[![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 ## Usage
 
 ``` js
