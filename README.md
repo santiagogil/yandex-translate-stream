@@ -3,7 +3,7 @@ Yandex translate module inside a map-stream.
 
 ## Usage
 
-```
+``` js
 var translate = require('yandex-translate-stream')(<your yandex api key here>)
 
 var data = {
