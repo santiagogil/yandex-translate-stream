@@ -1,4 +1,6 @@
 # yandex-translate-stream
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/santiagogil/yandex-translate-stream.svg)](https://greenkeeper.io/)
 Yandex translate module inside a map-stream.
 
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
